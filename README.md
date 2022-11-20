@@ -1,2 +1,2 @@
-# Bootsrap-Odev-1
-Front-End Patikası Bootsrap Ödevi 1
+# Bootsrap-Homework-1
+Kodluyoruz.org Bootstrap Homework 1
